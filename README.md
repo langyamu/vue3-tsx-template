@@ -12,7 +12,7 @@ this template includes:
 ## Getting Started
 
 ```bash
-npx degit langyamu/vue3-tsx my-project
+npx degit langyamu/vue3-tsx-template my-project
 cd my-project
 ```
 
